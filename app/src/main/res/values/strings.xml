@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab9</string>
+    <string name="title_activity_show_location">Map</string>
+</resources>
